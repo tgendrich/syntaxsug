@@ -1,0 +1,13 @@
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.exe
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.deps.json
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.runtimeconfig.json
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.dll
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\bin\Debug\netcoreapp3.1\SyntaxSugarPrat.pdb
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.dll
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.pdb
+C:\Users\Thomas\source\repos\syntaxsugar\SyntaxSugarPrat\SyntaxSugarPrat\obj\Debug\netcoreapp3.1\SyntaxSugarPrat.genruntimeconfig.cache
